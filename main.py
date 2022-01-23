@@ -1,10 +1,12 @@
-import pyautogui
+import random
 import time
+import pyautogui
 
-time.sleep(5) #delay
+time.sleep(5)#Delay
+while True:
+    with open("text.txt", "r") as file:# Open the file in read mode
+        allText = file.read()
+        words = list(map(str, allText.split()))
 
-f = open("text", "r")
-
-for word in f:
-    pyautogui.typewrite(word)
-    pyautogui.press("enter")
+        pyautogui.typewrite((random.choice(words)))
+        pyautogui.press("enter")

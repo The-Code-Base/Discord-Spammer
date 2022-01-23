@@ -1,5 +1,5 @@
 ## Discord-Text-Spammer
-##**WARNING!!**
+#**WARNING!!**
 #Educational Purpose Only!!
 **_This is a Spamming program, This can be use to spam any chatting software (ex- Discord, Zoom, WhatsApp, Facebook)._**
 

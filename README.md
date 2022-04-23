@@ -7,5 +7,4 @@
 # _Setting Up The Spammer_
 1. Open Windows powershell with Administrator privileges.
 2. Type, pip install -r requirements.
-3. Then you can add your words to the `text.txt` file. (Split worlds using a Space, Ex: hello hi yes no)
-4. Run the `main.py`, Enjoy spamming!.
+3. Run the `main.py`, Enjoy spamming!. (Default delay to start the spammer is 5 seconds, you can edit it as you need)

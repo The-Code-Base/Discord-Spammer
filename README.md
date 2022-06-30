@@ -1,13 +1,41 @@
-### Text Spammer
 
-**WARNING!!**
+# Discord Spammer
 
----
-#Educational Purpose Only!!
-**_This is a Spamming program, This can be use to spam any chatting software (ex- Discord, Zoom, WhatsApp, Facebook)._**
+Text Spammer.
 
----
-# _Setting Up The Spammer_
-1. Open Windows powershell with Administrator privileges.
-2. Type, pip install -r requirements.
-3. Run the `main.py`, Enjoy spamming!. (Default delay to start the spammer is 5 seconds, you can edit it as you need)
+Educational Purpose Only!
+
+
+## Features
+
+- Fast
+- Easy to use
+- customizable
+
+
+## Installation
+
+To install modules run this command
+
+```cmd
+  pip install -r requirements.
+```
+
+
+## Setting up
+
+Run main.py to start to run the program
+
+```cmd
+   python main.py
+```
+    
+## Authors
+
+- [@Matheesha Pathirana](https://www.github.com/matheesha-pathirana)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at pathiranamatheesha@gmail.com
+

@@ -1,3 +1,4 @@
+import sys
 import time
 import pyautogui
 
@@ -12,4 +13,4 @@ while True:
         print(f'Successfully send the message {a}')
         a += 1
         if a == number:  # Automatically exits after sending messages
-            exit()
+            sys.exit()
